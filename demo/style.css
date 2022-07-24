@@ -1,0 +1,9 @@
+.child{
+text-align: center;
+    border: 5px solid var(--bs-red);
+    margin-bottom: 10px;
+}
+.accordion .accordion-item h2{
+    text-align: center;
+    color: rgb(27, 35, 35);
+}
